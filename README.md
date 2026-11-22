@@ -15,7 +15,7 @@
 
 ### Replay · 개인 프로젝트
 
-React와 TypeScript로 계좌 현황을 조회하는 화면을 만들고, 서버에서 토스증권 Open API를 호출하도록 구성했습니다. API 인증정보와 허용 IP 조건을 확인하며 연동 문제를 해결했습니다. 저장소는 현재 비공개입니다.
+React와 TypeScript로 계좌 현황을 조회하는 화면을 만들고, 서버에서 토스증권 Open API를 호출하도록 구성했습니다. API 인증정보와 허용 IP 조건을 확인하며 연동 문제를 해결했습니다. [소스 코드와 실행 방법](https://github.com/doyeong2002/replay-investing)을 볼 수 있습니다.
 
 ### 해외여행 다통화 환전·결제 DB · 팀 프로젝트
 
