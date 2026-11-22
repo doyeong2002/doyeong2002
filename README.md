@@ -1,6 +1,4 @@
-# 김도영
-
-데이터가 저장되고 조회되어 API와 화면의 기능으로 이어지는 과정에 관심이 있습니다. 수업 프로젝트에서는 데이터베이스를 설계했고, 팀 프로젝트에서는 계정·인증 API를, 개인 프로젝트에서는 증권 API를 연결한 조회 화면을 만들었습니다.
+![Hi, I'm Doyeong Kim. Backend · Database · API](assets/profile-banner.svg)
 
 ## About Me
 

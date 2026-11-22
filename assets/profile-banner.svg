@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Doyeong Kim.</title>
+  <desc id="desc">Backend, Database, and API on a blue and teal wave banner.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#183153"/>
+      <stop offset="55%" stop-color="#236484"/>
+      <stop offset="100%" stop-color="#278a87"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#111d36"/>
+      <stop offset="100%" stop-color="#16465a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="10" fill="url(#background)"/>
+  <circle cx="1010" cy="-65" r="235" fill="#ffffff" opacity="0.045"/>
+  <circle cx="210" cy="305" r="250" fill="#ffffff" opacity="0.035"/>
+  <path d="M0 221 C205 259 338 188 558 222 S935 263 1200 211 V280 H0Z" fill="#d8f5f2" opacity="0.14"/>
+  <path d="M0 241 C236 196 385 251 585 238 S961 205 1200 250 V280 H0Z" fill="url(#wave)" opacity="0.55"/>
+  <text x="600" y="121" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="700" letter-spacing="-2">Hi, I'm Doyeong Kim.</text>
+  <text x="600" y="169" text-anchor="middle" fill="#d5f1ee" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" letter-spacing="3">BACKEND  ·  DATABASE  ·  API</text>
+</svg>
