@@ -4,6 +4,7 @@
 
 - **관심 분야:** 백엔드 개발, 데이터베이스, 외부 API를 활용한 서비스 개발
 - **해본 일:** Spring Boot 계정·인증 API, MySQL 잔액·거래 조회 SQL, React·TypeScript 계좌 현황 화면
+- **AI 연동:** Replay에서 종목 데이터와 최근 뉴스를 Gemini API에 전달하고 분석 결과를 화면에 표시했습니다.
 - **데이터 경험:** LG Aimers에서 결측치 확인과 전처리에 참여했습니다.
 
 ## Education
@@ -20,6 +21,8 @@
 | **Database** | **Tools & Platforms** |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
+**AI API 연동:** ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+
 ## Projects
 
 ### 어르신 교통 동행 안내 서비스 · 팀 프로젝트
@@ -35,9 +38,9 @@
 ### Replay · 개인 프로젝트
 
 **역할:** 화면 및 서버 API 연동<br>
-**기술:** React, TypeScript, Next.js
+**기술:** React, TypeScript, Next.js, Gemini API
 
-계좌 현황을 조회하는 화면을 만들고, 서버에서 토스증권 Open API를 호출하도록 구성했습니다. API 인증정보 누락과 허용 IP 문제를 확인하며 연동 문제를 해결했습니다. [소스 코드와 실행 방법](https://github.com/doyeong2002/replay-investing)
+계좌 현황을 조회하는 화면을 만들고, 서버에서 토스증권 Open API를 호출하도록 구성했습니다. API 인증정보 누락과 허용 IP 문제를 확인하며 연동 문제를 해결했습니다. 종목 데이터와 뉴스를 Gemini API에 전달해 분석 결과를 보여주는 기능도 연동했습니다. [소스 코드와 실행 방법](https://github.com/doyeong2002/replay-investing)
 
 ### 해외여행 다통화 환전·결제 DB · 팀 프로젝트
 
