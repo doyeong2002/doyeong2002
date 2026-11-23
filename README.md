@@ -39,6 +39,10 @@
 
 계좌 현황을 조회하는 화면을 만들고, 서버에서 토스증권 Open API를 호출하도록 구성했습니다. API 인증정보 누락과 허용 IP 문제를 확인하며 연동 문제를 해결했습니다. [소스 코드와 실행 방법](https://github.com/doyeong2002/replay-investing)
 
+![예시 데이터로 표시한 Replay 계좌 현황](https://raw.githubusercontent.com/doyeong2002/replay-investing/main/public/replay-account-example.jpg)
+
+*화면의 잔액·손익·보유 종목은 실제 계좌 정보가 아닌 예시 데이터입니다.*
+
 ### 해외여행 다통화 환전·결제 DB · 팀 프로젝트
 
 **역할:** 데이터 관계 설계와 조회 SQL<br>
