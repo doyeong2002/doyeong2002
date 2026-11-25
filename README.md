@@ -30,9 +30,10 @@
 **역할:** 백엔드 계정·인증 영역<br>
 **기술:** Java, Spring Boot, SQL
 
-어르신과 보호자가 이용하는 서비스에서 계정 및 어르신 정보 API, 보호자 연결, 알림 조회·읽음 처리, 문자 인증과 로그인 상태 유지 기능을 구현했습니다. 팀 저장소는 비공개지만, 제가 작성한 계정·인증 코드 일부와 작업 내용을 별도 공개 저장소에 정리했습니다.
+어르신과 보호자가 이용하는 서비스에서 계정 및 어르신 정보 API, 보호자 연결, 알림 조회·읽음 처리, 문자 인증과 로그인 상태 유지 기능을 구현했습니다. 팀 전체 코드와 제가 맡은 작업의 PR, 담당 영역을 정리한 포트폴리오를 함께 볼 수 있습니다.
 
-- [담당 기능·실제 코드·검증 결과 보기](https://github.com/doyeong2002/elder-companion-api-portfolio)
+- [팀 전체 코드](https://github.com/yongyongthon-team13/BE) · [내 담당 기능·코드·검증 결과](https://github.com/doyeong2002/elder-companion-api-portfolio)
+- 내 작업 기록: [계정·어르신 정보·보호자 연결·알림 API](https://github.com/yongyongthon-team13/BE/pull/3) · [문자 인증 후 로그인 상태 유지](https://github.com/yongyongthon-team13/BE/pull/7) · [문자 발송 서비스 연동](https://github.com/yongyongthon-team13/BE/pull/9)
 
 ### Replay · 개인 프로젝트
 
